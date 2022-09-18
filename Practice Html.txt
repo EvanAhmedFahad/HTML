@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HTML</title>
+	</head>
+<body>
+
+<h1>Bangladesh</h>
+<p> the name of our country is bangladesh</p>
+<b>bold</b>
+<i> italic</i>
+<em>italic</em>
+<h2 style="backgorund-color:red;text-align:center;color:green;font-size:45px>fahad </h2>
+<img style=width="200px"height ="200" src="fahad.jpg" atl ="no picture">
+<table border="1px">
+	<tr>
+ 		<th>name</th>
+		<th>roll</th>
+	</tr>
+	<tr>
+		<td>fahad</td>
+		<td>1</td>
+	</tr>
+
+</table>
+<video controls style =width"200" height="200" src="fahad.mp4">
+
+</video>
+<blockquote> for spac two side</blockquote>
+<a href ="https://www.google.com" target="_balnk">
+<iframe style width = "200"height ="200" src="https://www.prothomalo.com" name="iframe_a">
+	
+</iframe>
+<a href="Part 2 /index.html"target="iframe_a"<clikc</a>
+<address>
+dhaka
+</address>
+<ul style=" list-style-type:square">
+<li>fahad</li>
+<li>rifat</li>
+</ul>
+
+<ol typre="A">
+<li>fahad</li>
+<li>rifat</li>
+</ol>
+<dl>
+<dt>fahad</dt>
+ <dd>khan</dd>
+</dl>
+
+<div>
+<a style = "text-align certer;display:block;href="#">click</a>
+</div>
+<from action ="#" method="post">
+first name
+  <input type="text:placeholder ="enter name"><br>
+  <input type="radio">eamil<br>
+   <iput type="submit" value="send">
+</from>
+
+
+
+
+
+
+</body>
+</html>
